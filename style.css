@@ -148,3 +148,18 @@ header {
 .game3 p {
     text-align: center;
 }
+
+.game1:hover,
+.game1 p:active {
+    color: rgb(250, 87, 87);
+}
+
+.game2:hover,
+.game2 p:active {
+    color: rgb(250, 87, 87);
+}
+
+.game3:hover,
+.game3 p:active {
+    color: rgb(250, 87, 87);
+}
